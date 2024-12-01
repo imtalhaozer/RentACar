@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\talha\\Desktop\\projeler\\rentacar\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\talha\\Desktop\\projeler\\RentACar\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\talha\\Desktop\\projeler\\rentacar\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\talha\\Desktop\\projeler\\RentACar\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\talha\\Desktop\\projeler\\rentacar\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\talha\\Desktop\\projeler\\RentACar\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\talha\\AppData\\Roaming\\NuGet\\NuGet.Config",
