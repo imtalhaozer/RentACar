@@ -1,0 +1,12 @@
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\bin\Debug\net8.0\Core.Persistence.deps.json
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\bin\Debug\net8.0\Core.Persistence.dll
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\bin\Debug\net8.0\Core.Persistence.pdb
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\obj\Debug\net8.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\obj\Debug\net8.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\obj\Debug\net8.0\Core.Persistence.AssemblyInfo.cs
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\obj\Debug\net8.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\obj\Debug\net8.0\Core.Persistence.sourcelink.json
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\obj\Debug\net8.0\Core.Persistence.dll
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\obj\Debug\net8.0\refint\Core.Persistence.dll
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\obj\Debug\net8.0\Core.Persistence.pdb
+C:\Users\talha\Desktop\projeler\RentACar\Core.Persistence\obj\Debug\net8.0\ref\Core.Persistence.dll
