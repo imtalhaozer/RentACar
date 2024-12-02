@@ -13,11 +13,15 @@
       <Folder Include="Features\Brands\Profiles\" />
       <Folder Include="Features\Brands\Queries\" />
       <Folder Include="Features\Brands\Rules\" />
-      <Folder Include="Services\" />
     </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="MediatR" Version="12.1.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Core.Persistence\Core.Persistence.csproj" />
+      <ProjectReference Include="..\Domain\Domain.csproj" />
     </ItemGroup>
 
 </Project>
